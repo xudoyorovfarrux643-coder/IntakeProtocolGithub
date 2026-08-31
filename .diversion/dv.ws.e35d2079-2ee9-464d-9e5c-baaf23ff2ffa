@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.e35d2079-2ee9-464d-9e5c-baaf23ff2ffa",
+  "RepoID": "dv.repo.fe881dd2-09fb-42f8-aef1-907e6afcb8a5",
+  "Path": "D:\\intake\\IntakeProtocol",
+  "AccountID": "Google_114830416204622917833",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.5",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "IntakeProtocol",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "INDIE"
+}

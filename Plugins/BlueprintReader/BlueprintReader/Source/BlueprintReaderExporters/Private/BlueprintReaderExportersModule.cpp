@@ -1,0 +1,3 @@
+#include "BlueprintReaderExportersModule.h"
+
+IMPLEMENT_MODULE(FBlueprintReaderExportersModule, BlueprintReaderExporters)

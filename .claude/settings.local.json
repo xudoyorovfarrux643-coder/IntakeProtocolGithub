@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($paths = @\\(\"C:\\\\Program Files\\\\Epic Games\\\\UE_5.6\",\"D:\\\\Epic Games\\\\UE_5.6\",\"D:\\\\Program Files\\\\Epic Games\\\\UE_5.6\",\"E:\\\\Epic Games\\\\UE_5.6\"\\); foreach\\($p in $paths\\){ if\\(Test-Path $p\\){ \"FOUND: $p\" } }; Get-ChildItem \"C:\\\\Program Files\\\\Epic Games\" -ErrorAction SilentlyContinue | Select-Object Name)",
+      "PowerShell(& \"C:\\\\Program Files\\\\Epic Games\\\\UE_5.6\\\\Engine\\\\Build\\\\BatchFiles\\\\Build.bat\" IntakeProtocolEditor Win64 Development -Project=\"D:\\\\ueProjects\\\\IntakeProtocol\\\\IntakeProtocol.uproject\" -WaitMutex -FromMsBuild)"
+    ]
+  }
+}

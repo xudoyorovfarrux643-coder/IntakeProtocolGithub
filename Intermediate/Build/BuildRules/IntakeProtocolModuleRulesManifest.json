@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"D:\\intake\\IntakeProtocol\\Source\\IntakeProtocol\\IntakeProtocol.Build.cs",
+		"D:\\intake\\IntakeProtocol\\Plugins\\BlueprintReader\\BlueprintReader\\Source\\BlueprintReaderCore\\BlueprintReaderCore.Build.cs",
+		"D:\\intake\\IntakeProtocol\\Plugins\\BlueprintReader\\BlueprintReader\\Source\\BlueprintReaderEditor\\BlueprintReaderEditor.Build.cs",
+		"D:\\intake\\IntakeProtocol\\Plugins\\BlueprintReader\\BlueprintReader\\Source\\BlueprintReaderExporters\\BlueprintReaderExporters.Build.cs",
+		"D:\\intake\\IntakeProtocol\\Source\\IntakeProtocol.Target.cs",
+		"D:\\intake\\IntakeProtocol\\Source\\IntakeProtocolEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

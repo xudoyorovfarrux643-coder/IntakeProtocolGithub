@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "IntakeProtocol",
+			"Path": "..\\Source\\IntakeProtocol.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "IntakeProtocolEditor",
+			"Path": "..\\Source\\IntakeProtocolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

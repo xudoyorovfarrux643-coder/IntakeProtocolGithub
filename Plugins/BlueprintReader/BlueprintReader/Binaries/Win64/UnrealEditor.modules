@@ -1,0 +1,9 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"BlueprintReaderCore": "UnrealEditor-BlueprintReaderCore.dll",
+		"BlueprintReaderEditor": "UnrealEditor-BlueprintReaderEditor.dll",
+		"BlueprintReaderExporters": "UnrealEditor-BlueprintReaderExporters.dll"
+	}
+}
